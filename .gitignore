@@ -24,3 +24,5 @@ $RECYCLE.BIN/
 
 # Built Visual Studio Code Extensions
 *.vsix
+# Locally installed embedding model
+models/
